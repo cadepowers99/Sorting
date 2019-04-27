@@ -14,4 +14,4 @@ Sorting Algorithms Implemented:
 -Merge Sort
 -Radix Sort
 
-The testing suit was designed by Dr. E. T. Hammerand, a professor at Arkansas State University. 
+The timing and testing suit was designed by Dr. E. T. Hammerand, a professor at Arkansas State University. 
